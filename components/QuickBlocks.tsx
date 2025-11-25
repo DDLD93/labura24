@@ -60,7 +60,6 @@ export default function QuickBlocks() {
       y: 0,
       transition: {
         duration: 0.5,
-        ease: 'easeOut',
       },
     },
   };

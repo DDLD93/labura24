@@ -31,7 +31,6 @@ export default function JVAdvantage() {
       x: 0,
       transition: {
         duration: 0.5,
-        ease: 'easeOut',
       },
     },
   };
